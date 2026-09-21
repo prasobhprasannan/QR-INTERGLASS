@@ -1,0 +1,6 @@
+{
+  "name": "Glass Factory Production Tracking System",
+  "description": "Production execution and traceability system with browser machine terminals, real-time piece tracking, atomic concurrency control, supervisor management, and live intranet Quote--RR localhost synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
